@@ -39,6 +39,7 @@ The cashier has limited but essential access:
   - Book free tables for guests or premium members
   - Add or remove tables as required
   - Track individual customer orders linked to each table
+  - Generate an bills
 
 ---
 
