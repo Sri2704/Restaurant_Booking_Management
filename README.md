@@ -46,10 +46,9 @@ The cashier has limited but essential access:
 
 | Feature                | Preview                         |
 |------------------------|----------------------------------|
-| 🔐 **Login Page**       | ![Login Page](screenshots/login-page.png) |
 | 🧑‍💼 **Manager Dashboard** | ![Manager Dashboard](screenshots/manager-dashboard.png) |
+| 🧑‍💼 **Membership** | ![Manager Dashboard](screenshots/member.png) |
 | 🪑 **Table Booking**     | ![Table Booking](screenshots/table-booking.png) |
-| 📦 **Stock Management** | ![Stock Management](screenshots/stock-management.png) |
 | 💰 **Revenue Report**   | ![Revenue Report](screenshots/revenue-report.png) |
 
 ---
