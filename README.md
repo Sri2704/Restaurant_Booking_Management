@@ -58,4 +58,4 @@ The cashier has limited but essential access:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-booking-system.git
+   git clone https://github.com/Sri2704/Restaurant_Booking_Management.git
